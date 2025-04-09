@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 Hi 👋 My name is John Park 
 ==========================  
-Software Developer 
+Software Developer | API Developer | Java Developer | Full-Stack Developer 
 ------------------ 
 I am currently working as a developer and building APIs
 * 🌍  I'm based in Toronto, Ontario
