@@ -21,7 +21,7 @@ I am currently working as a developer and building APIs
 * 🌍  I'm based in Toronto, Ontario
 * 🖥️  See my portfolio at [MyPortfolio](http://johnphk.github.io/my-website/)
 * ✉️  You can contact me at [park.hokyun@gmail.com](mailto:park.hokyun@gmail.com)
-* 🧠  I'm currently working to improve computer network skills.
+* 🧠  I'm currently working to improve computer network skills. My goal is to get CCNA by end of this year :).
 * ⚡  I am an active person and love to play sports!
 
 
