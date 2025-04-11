@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi 👋 My name is Hokyun Park (but I go by "John Park")
+Hi 👋 My name is John Park - (my legal name is "Hokyun Park")
 ==========================  
 Software Developer | API Developer | Java Developer | Full-Stack Developer 
 ------------------ 
