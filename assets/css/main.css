@@ -3572,24 +3572,27 @@ sub,sup{
         width:48%
     }
     .contents-right{
-        margin-top:-5%
+        margin-top:-5%;
+        margin-left: 10px;
     }
     .contents-left{
-        margin-top:-5%
+        margin-top:-5%;
+        margin-right: 10px;
     }
     .contents-right,.images-right{
         float:right;
-        width:48%;
+        width: 400px;
     }
     .images-right img{
         float:right
     }
     .images-left{
         float:left;
-        width:48%;
     }
     .images-left img{
-        float:left
+        float:left;
+        width: 400px;
+        height: 250px;
     }
 }
 .project-link{
