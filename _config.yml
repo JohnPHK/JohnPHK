@@ -9,7 +9,7 @@ description: This is my personal website.
 # User settings
 username: John Park
 user_description: Hello There
-baseurl: "/my-website"
+baseurl: ""
 url: ""
 user_title: Software Developer
 user_location: Toronto, Canada
