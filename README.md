@@ -17,7 +17,9 @@ Hi 👋 My name is John - my legal name is "Hokyun Park"
 ==========================  
 Software Developer | API Developer | Java Developer | Full-Stack Developer 
 ------------------ 
-I am currently working as a developer and building APIs
+
+I am currently working as a software developer and building APIs. 
+
 * 🌍  I'm based in Toronto, Ontario
 * 🖥️  See my portfolio at [MyPortfolio](http://johnphk.github.io/JohnPHK/)
 * ✉️  You can contact me at [park.hokyun@gmail.com](mailto:park.hokyun@gmail.com)
