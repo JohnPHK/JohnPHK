@@ -8,7 +8,7 @@ description: This is my personal website.
 
 # User settings
 username: John Park
-user_description: Hello there! I'm John Park (my legal name is Hokyun Park). I'm a software developer with a passion for creating innovative solutions. <br> <br> I'm currently working at CIBC and have experience with various programming languages and frameworks. I'm always eager to learn new technologies and challenge myself with new IT-related skills.<br> <br> Outside of coding, I enjoy exercising and playing active sports — I guess I'm that weirdo who loves being both active and a developer at the same time!
+user_description: Hello there! I'm John Park (my legal name is "Hokyun Park"). I'm a software developer with a passion for creating innovative solutions. <br> <br> I'm currently working at CIBC and have experience with various programming languages and frameworks. I'm always eager to learn new technologies and challenge myself with new IT-related skills.<br> <br> Outside of coding, I enjoy exercising and playing active sports — I guess I'm that weirdo who loves being both active and a developer at the same time!
 
 baseurl: ""
 url: ""
