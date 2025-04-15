@@ -3535,6 +3535,10 @@ sub,sup{
     gap: 50px; /* space between image and text */
 }
 
+#user-description-paragraph {
+    text-align:left;
+}
+
 #projects{
     display:flex;
     flex-direction:column;
