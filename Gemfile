@@ -2,9 +2,16 @@
 
 source "https://rubygems.org"
 
-gem "jekyll"
-gem "faraday-retry"
-gem 'jekyll-sass-converter'
-gem 'webrick'
+# Jekyll and core gems
+gem "jekyll", "~> 4.3"
+gem "jekyll-sass-converter", "~> 3.0"
+gem "kramdown-parser-gfm", "~> 1.1"
 
-# gem "rails"
+# Jekyll plugins
+gem "jekyll-feed", "~> 0.12"
+gem "jekyll-sitemap"
+gem "jekyll-seo-tag"
+gem "jekyll-paginate"
+
+# Additional gems
+gem "webrick"
