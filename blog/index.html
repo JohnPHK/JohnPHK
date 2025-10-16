@@ -1,3 +1,26 @@
 ---
 layout: blog
 ---
+
+<div class="blog-header">
+  <div class="blog-navigation">
+    <a href="/" class="back-to-home">← Back to Home</a>
+  </div>
+  <h1>My Posts</h1>
+</div>
+
+<div class="blog-content">
+  
+  {% for post in site.posts %}
+    <div class="post-preview">
+      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
+      <p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+      <a href="{{ post.url }}" class="read-more">Read More →</a>
+    </div>
+  {% endfor %}
+  
+  {% if site.posts.size == 0 %}
+    <p>No posts yet. Check back soon!</p>
+  {% endif %}
+</div>
