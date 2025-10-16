@@ -3,7 +3,7 @@ title: John Park's Website
 description: This is my personal website. 
 
 # GitHub Pages settings
-baseurl: ""
+baseurl: "/JohnPHK"
 url: "https://johnphk.github.io"
 
 # User settings
