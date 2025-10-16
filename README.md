@@ -23,7 +23,7 @@ I am currently working as a software developer and building APIs. I code using J
 * 🌍  I'm based in Toronto, Ontario
 * 🖥️  See my portfolio at [MyPortfolio](http://johnphk.github.io/JohnPHK/)
 * ✉️  You can contact me at [park.hokyun@gmail.com](mailto:park.hokyun@gmail.com)
-* 🧠  I'm currently working to improve computer network skills. 
+* 🧠  I currently learning about React. My experience is focused on Java backend development.
 * ⚡  I am an active person and love to play sports!
 
 
