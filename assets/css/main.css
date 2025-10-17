@@ -3500,7 +3500,7 @@ sub,sup{
 #my_picture {
     max-width: 300px;
     border-radius: 50%;
-    margin-right: 50px;
+    margin: 50px;
 }
 #skills{
     width:90%;
